@@ -33,7 +33,7 @@ Night Messenger's Robe (Currently in the possession of Angelica Schwede)
 
 ### Notable Events
 
-- Slumber: First night at the Palazzo de Roslynss
+- Slumber: First night at the Palazzo de Roslyn
 - Audience with Ginera, High Priestess of Light of Permethrin
 - Induction into the Sleepless
 - Mission 1: Help the Night Messengers
@@ -45,7 +45,15 @@ Night Messenger's Robe (Currently in the possession of Angelica Schwede)
 
 ![Bhorhan](../media/NPC-Bhorhan.png)
 
-#### Ginera, High Priestess of Light of Permethrin, Shadow Realm
+#### Ginera, High Priestess of Landrien, Shadow Realm
 
 ![Ginera](../media/NPC-Ginera.png)
 
+### Action Items
+
+- [ ] Post Reference Photo for Palazzo (DM)
+- [ ] Provide DM a back story for your character that takes into account information you have so far about the world and how you would like your character to tie into the campaign. **(100 XP)** (Players)
+- [ ] Come up with House Roslyn Colors and Heraldry (GROUP)
+- [ ] Provide some reference handouts for Wren. (DM)
+- [ ] Complete Session 1 Notes (DM, In progress)
+- [ ] Provide Initial Session 2 Notes by May the First. (DM)

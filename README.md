@@ -28,6 +28,8 @@ I am using this repository to host my D&D Campaign Notes and World building.
 
 **System:** D&D Lastest edition 5.5
 
+**Session Notes:** [Are here.](./sessions/0000-session.md)
+
 ### Books Allowed
 
 Players Handbook (PHB) 2024 - [Beyond Marketplace](https://www.dndbeyond.com/sources/dnd/phb-2024)
