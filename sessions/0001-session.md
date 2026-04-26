@@ -1,5 +1,9 @@
 # Session 1
 
+- **Date:** 2026 April 25, Saturday
+- **Duration:** Noon - 1730 EST
+- **Location** World's Best Comics
+
 ## Table of Contents
 
 - [Session 1](#session-1)
