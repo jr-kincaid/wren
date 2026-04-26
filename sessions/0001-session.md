@@ -15,21 +15,21 @@ Welcome to the Palazzo de Roslyn. A palace really.
 
 ## Experience Log
 
-Angelica Schwede (Human Rogue 1) **500 XP** (Level Up at end of session)
-Ryu Kalthos (Elf Monk 1) **450 XP** (Level Up at end of session)
-Sorloc Arrhesh **600 XP** (Dragonborn Fighter 1) (Level Up at end of session)
-Wally Wyvern **300 XP** (Human Sorcerer 1) (Level Up at end of session)
+- Angelica Schwede (Human Rogue 1) **500 XP** (Level Up at end of session)
+- Ryu Kalthos (Elf Monk 1) **450 XP** (Level Up at end of session)
+- Sorloc Arrhesh **600 XP** (Dragonborn Fighter 1) (Level Up at end of session)
+- Wally Wyvern **300 XP** (Human Sorcerer 1) (Level Up at end of session)
 
 ## Party Treasure
 
-5x Shadow Realm Ever Burning Torches
-5x Goodberries
-Night Messenger's Robe (Currently in the possession of Angelica Schwede)
-2x Purple Crystals (Find Steed; Shadow Realm)
+- 5x Shadow Realm Ever Burning Torches
+- 5x Goodberries
+- Night Messenger's Robe (Currently in the possession of Angelica Schwede)
+- 2x Purple Crystals (Find Steed; Shadow Realm)
 
 ### Consumed Party Treasure
 
-3x Purple Crystals (Find Steed; Shadow Realm)
+- 3x Purple Crystals (Find Steed; Shadow Realm)
 
 ### Notable Events
 
