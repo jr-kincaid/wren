@@ -15,7 +15,7 @@ I am using this repository to host my D&D Campaign Notes and World building.
       - [The United of the Muses](#the-united-of-themuses)
       - [The Militias and Magistrates of Wren](#the-militias-and-magistrates-of-wren)
       - [Repoussé of the Landrien](#repoussé-of-the-landrien)
-      - [Character Entry Point](#character-entry-point)
+    - [Character Entry Point](#character-entry-point)
     - [Game Members (Real Name - Discord Handle)](#game-members-real-name---discord-handle)
     - [Player Roster (Real Name - Discord Handle)](#player-roster-real-name---discord-handle)
       - [Inactive Player Roster](#inactive-player-roster)
@@ -62,7 +62,7 @@ Not really a faction per se or organization. But a partnership of land owners th
 
 Worshipful of the Goddess Landrea, the pensive and awakened provisioner of dreams. She is also the patron Goddess of Travel, Trade, and Wanderlust. They are the keepers of the Gates of Wren. Each Gate is also a Temple to Landrea.
 
-#### Character Entry Point
+### Character Entry Point
 
 All characters will start out as members of the House of Roslyn. Session 0 will cover laying the context of what that means as a party. The House Roslyn owns the Palazzo de Roslyn. The palazzo sits atop a major public conveyances deep into the Spirals. The Spirals is the top most layer of the lands below the city state. Those who would bring darkness are at peace and commerce because of the lanterns Roslyn embodies for the republics and city-state.
 
