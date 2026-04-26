@@ -43,6 +43,8 @@ Welcome to the Palazzo de Roslyn. A palace really.
 - Mission 1: Help the Night Messengers
 - Rescue of Bhorhan from 2 Ghouls
 - Wally died in a "Dream" to a Critical Hit from a Ghoul in the Ebon Wood
+- Josh the First missed Session 1
+- Wally will miss out on Session 2 as he recovers from his sleepless night.
 
 ### Non-Player Characters
 
