@@ -42,6 +42,7 @@ Welcome to the Palazzo de Roslyn. A palace really.
 - Induction into the Sleepless
 - Mission 1: Help the Night Messengers
 - Rescue of Bhorhan from 2 Ghouls
+- Wally died in a "Dream" to a Critical Hit from a Ghoul in the Ebon Wood
 
 ### Non-Player Characters
 
