@@ -76,16 +76,16 @@ DM  Joshua - pikish
 
 #### Active Players
 
-Bob - Hawkeyes484
+1. Bob - Hawkeyes484
 
-Josh - bearded_cyclist
+2. Josh - bearded_cyclist
 
-Ken - Steelpanther
+3. Ken - Steelpanther
 
-Ted - WolfmanComplex
+4. Ted - WolfmanComplex
 
-Tree - gh8stree
+5. Tree - gh8stree
 
 #### Inactive Players
 
-Allison - desmond364
+1. Allison - desmond364
