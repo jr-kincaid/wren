@@ -74,6 +74,8 @@ DM  Joshua - pikish
 
 ### Player Roster (Real Name - Discord Handle)
 
+#### Active Players
+
 Bob - Hawkeyes484
 
 Josh - bearded_cyclist
@@ -84,6 +86,6 @@ Ted - WolfmanComplex
 
 Tree - gh8stree
 
-#### Inactive Player Roster
+#### Inactive Players
 
 Allison - desmond364
