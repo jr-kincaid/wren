@@ -14,6 +14,8 @@
     - [Consumed Party Treasure](#consumed-party-treasure)
     - [Notable Events](#notable-events)
     - [Action Items](#action-items)
+      - [Completed](#completed)
+      - [Pended To Next Session Notes](#pended-to-next-session-notes)
 
 ## Narration
 
@@ -54,9 +56,14 @@ Welcome to the Palazzo de Roslyn. A palace really.
 
 ### Action Items
 
+#### Completed
+
 - [x] Post Reference Photo for Palazzo (DM)
+- [x] Complete Session 1 Notes (DM, In progress)
+
+#### Pended To Next Session Notes
+
 - [ ] Provide DM a back story for your character that takes into account information you have so far about the world and how you would like your character to tie into the campaign. **(100 XP)** (Players)
 - [ ] Come up with House Roslyn Colors and Heraldry (GROUP)
 - [ ] Provide some reference handouts for Wren. (DM)
-- [x] Complete Session 1 Notes (DM, In progress)
 - [ ] Provide Initial Session 2 Notes by May the Fourth. (DM)
