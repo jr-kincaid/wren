@@ -8,6 +8,12 @@
 
 - [Session 1](#session-1)
   - [Table of Contents](#table-of-contents)
+  - [Narration](#narration)
+  - [Experience Log](#experience-log)
+  - [Party Treasure](#party-treasure)
+    - [Consumed Party Treasure](#consumed-party-treasure)
+    - [Notable Events](#notable-events)
+    - [Action Items](#action-items)
 
 ## Narration
 
@@ -46,21 +52,11 @@ Welcome to the Palazzo de Roslyn. A palace really.
 - Josh the First missed Session 1
 - Wally will miss out on Session 2 as he recovers from his sleepless night.
 
-### Non-Player Characters
-
-#### Bhorhan, Night Messenger, Shadow Realm
-
-![Bhorhan](../media/NPC-Bhorhan.png)
-
-#### Ginera, High Priestess of Landrien, Shadow Realm
-
-![Ginera](../media/NPC-Ginera.png)
-
 ### Action Items
 
-- [ ] Post Reference Photo for Palazzo (DM)
+- [x] Post Reference Photo for Palazzo (DM)
 - [ ] Provide DM a back story for your character that takes into account information you have so far about the world and how you would like your character to tie into the campaign. **(100 XP)** (Players)
 - [ ] Come up with House Roslyn Colors and Heraldry (GROUP)
 - [ ] Provide some reference handouts for Wren. (DM)
-- [ ] Complete Session 1 Notes (DM, In progress)
-- [ ] Provide Initial Session 2 Notes by May the First. (DM)
+- [x] Complete Session 1 Notes (DM, In progress)
+- [ ] Provide Initial Session 2 Notes by May the Fourth. (DM)
