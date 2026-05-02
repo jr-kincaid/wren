@@ -1,4 +1,4 @@
-# Session 1
+# Session 0001
 
 - **Date:** 2026 April 25, Saturday
 - **Duration:** Noon - 1730 EST
@@ -6,7 +6,7 @@
 
 ## Table of Contents
 
-- [Session 1](#session-1)
+- [Session 0001](#session-0001)
   - [Table of Contents](#table-of-contents)
   - [Narration](#narration)
   - [Experience Log](#experience-log)
