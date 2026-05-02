@@ -59,7 +59,7 @@ Welcome to the Palazzo de Roslyn. A palace really.
 #### Completed
 
 - [x] Post Reference Photo for Palazzo (DM)
-- [x] Complete Session 1 Notes (DM, In progress)
+- [x] Complete Session 1 Notes
 
 #### Pended To Next Session Notes
 
