@@ -41,4 +41,3 @@ Not really a faction per se or organization. But a partnership of land owners th
 #### Repoussé of the Landrien
 
 Worshipful of the Goddess Landrea, the pensive and awakened provisioner of dreams. She is also the patron Goddess of Travel, Trade, and Wanderlust. They are the keepers of the Gates of Wren. Each Gate is also a Temple to Landrea.
-

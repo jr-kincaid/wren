@@ -13,7 +13,8 @@ I am using this repository to host my D&D Campaign Notes and World building.
     - [Character Entry Point](#character-entry-point)
     - [Game Members (Real Name - Discord Handle)](#game-members-real-name---discord-handle)
     - [Player Roster (Real Name - Discord Handle)](#player-roster-real-name---discord-handle)
-      - [Inactive Player Roster](#inactive-player-roster)
+      - [Active Players](#active-players)
+      - [Inactive Players](#inactive-players)
 
 ## Important Links
 
@@ -25,7 +26,7 @@ See Discord Announcements Thread for all links.
 
 **Start Year:** April 2026
 
-**System:** D&D Lastest edition 5.5
+**System:** D&D Latest edition 5.5
 
 **Session Notes:** [Are here.](./sessions/0000-session.md)
 
@@ -35,7 +36,7 @@ Players Handbook (PHB) 2024 - [Beyond Marketplace](https://www.dndbeyond.com/sou
 
 ### Notes
 
-- [Places and Organizations]()
+- [Places and Organizations](/notes/places.md)
 
 ### Character Entry Point
 
