@@ -7,6 +7,7 @@
   - [The City State of Wren](#the-city-state-of-wren)
     - [Major Organizations with-in the City State](#major-organizations-with-in-the-city-state)
       - [Craigorth](#craigorth)
+      - [Moon Glades of Hetcate](#moon-glades-of-hetcate)
       - [The Light of Permethrin](#the-light-of-permethrin)
       - [The United of the Muses](#the-united-of-themuses)
       - [The Militias and Magistrates of Wren](#the-militias-and-magistrates-of-wren)
@@ -25,6 +26,10 @@ The Stronghold of Providers - A major religious organization traditionally built
 #### Craigorth
 
 A major guild that controls trade between the Harbor, the passages & passes above, below, and abroad with the city-state.
+
+#### Moon Glades of Hetcate
+
+A druidic order of that controls the two major forests near Wren. Hetcate is the Goddess of the moon.
 
 #### The Light of Permethrin
 
