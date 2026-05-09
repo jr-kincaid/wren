@@ -56,7 +56,29 @@ Yes I love reading with my ears and eyes! YouTube is also an addiction of choice
 
 ## Narration
 
-TBD
+For those who remained sleepless, you awake from the beyond rested but weary. Beyond the blue curtains of your room falls snow. Thick flurries obscure the palazzo center courtyard and the city beyond. Frost covers your window.
+
+As you rise to a seated position swing your feet in proximity to your slippers. You notice a sealed parcel of paper lays, as if slid underneath the door. You note the seal as the Great Mage Fautus Gasterra, who is only out ranked by Grandmaster Pietro himself. His tower sits twin with Great Mage Alexandra Centicecco.
+
+You break the seal an begin reading:
+
+Welcome Delver of House Roslyn!
+
+I hope you have found your accommodations adequate. Please let your Ward Steward, Master Gregory Velo, know of anything you may require. As you are of service to the House we also feel an obligation to those who serve.
+
+I have the pleasure to be party of your orientation into the Delvers. Your first mission will be into the City Below. You see Wren has been rebuilt roughly three times over the centuries. While we have great knowledge of some of the expanses. Much of it still is ripe for rediscovery.
+
+Some areas of the the City Below are well guarded and open to the public or various Houses of the City. Others are controlled by the gods know what. While some areas are accessible from the surface. Many remain buried with entrances only from the below or accessible with strong magics of conveyance.
+
+While am not able to meet with you this day. My aides will retrieve you after your morning meal to attune you to the runes to the Spirals. You will also receive two tattoos of conveyance.
+
+One that will teleport you back to one of the Palazzo Spiral runes. And another that will transport you back to your homeland. The first will only transport you back. While your homeland tattoo will transport you and any who are touching you. These tattoos take a fortnight to recharge, so use them when there is great need.
+
+The City Below is dangerous as it is vast. Your first venture will be to clear a small goblin encampment from a ruined hold. I am sure you will excel at this task.
+
+Remain Vigilant, Remain Reverant, and Remember Who you Represent.
+
+Great Mage Fautus Gasterra
 
 ## Experience Log
 
