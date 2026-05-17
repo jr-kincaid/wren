@@ -12,7 +12,12 @@
   - [What is Engaging for the DM this fortnight](#what-is-engaging-for-the-dm-this-fortnight)
   - [Narration](#narration)
   - [Experience Log](#experience-log)
-    - [Experience Log: Start](#experience-log-start)
+    - [Experience Log: Summary](#experience-log-summary)
+      - [Experience Log: Retired](#experience-log-retired)
+    - [Active Players](#active-players)
+    - [Experience Log: Session Achievements](#experience-log-session-achievements)
+      - [100 per player](#100-per-player)
+    - [Experience Log: Achieved during Session 2](#experience-log-achieved-during-session-2)
   - [Party Treasure](#party-treasure)
     - [Party Treasure: Existing](#party-treasure-existing)
     - [Party Treasure: Acquired](#party-treasure-acquired)
@@ -82,25 +87,57 @@ Great Mage Fautus Gasterra
 
 ## Experience Log
 
-### Experience Log: Start
+### Experience Log: Summary
 
-- Angelica Schwede (Human Rogue 1) **Start: 500 XP**
-- Ryu Kalthos (Elf Monk 1) **Start: 450 XP**
-- Sorloc Arrhesh (Dragonborn Fighter 1) **Start: 600 XP**
-- Wally Wyvern (Human Sorcerer 1) **Start: 300 XP**
+- Ryu Kalthos (Elf Monk 3) **Start: 450 XP End: 1000**
+- Sorloc Arrhesh (Dragonborn Fighter 3) **Start: 600 XP End:1000**
+- Wally Wyvern (Human Sorcerer 2) **Start: 300 XP End: 400**
+- Sylvarius Runewood (Elf Druid 2) **Start: 0 XP End 500**
+
+#### Experience Log: Retired
+
+- Angelica Schwede (Human Rogue 2) **Start: 500 XP End: Retired**
+
+### Active Players
+
+Ken, Bob, Josh 1
+
+### Experience Log: Session Achievements
+
+Monster Defeat 150 per Player ( Bob, Key, Josh 1)
+
+#### 100 per player
+
+Snacks - (Key, Josh 1)
+Best In Charecter - (Josh 1)
+Blunder - Bob
+MVP - Bob
+Problem Solver - Ken
+Bed Dad Joke - Half Credit : Bob, Ken, Full: Josh
+Character Background: All + Ted
+
+### Experience Log: Achieved during Session 2
+
+Bob: 550 XP
+Josh: 600 XP
+Ken: 400 XP
 
 ## Party Treasure
 
 ### Party Treasure: Existing
 
-- 5x Shadow Realm Ever Burning Torches
 - 5x Goodberries
 - Night Messenger's Robe (Currently in the possession of Angelica Schwede)
 - 2x Purple Crystals (Find Steed; Shadow Realm)
+- 5x Shadow Realm Ever Burning Torches
 
 ### Party Treasure: Acquired
 
-TBD
+10 Healing Potions
+Healing Kit
++1 Hammer of Smithing
+Bracelet of Gentle Repose
+60 GP (Money and money equivlants)
 
 ### Party Treasure: Consumed
 
@@ -108,17 +145,19 @@ TBD
 
 ## Notable Events
 
-TBD
+- 1 per fortnight: Homeland Tatoos for present characters. Code word and location decided by players. All touching creatures are transported.
+- 1 per fortnight: Roslyn Tatoo for present characters. Code word and location decided by players. Tatoo owner transport back to Roslyn HQ.
+- Wally recovers from transitioning towards a dezinen of the shadows.
+- Delver Mission aquired: Delve into the Prison of House Roslyn.
 
 ## Action Items
 
 ### Completed
 
-TBD
+- [x] Provide DM a back story for your character that takes into account information you have so far about the world and how 
+you would like your character to tie into the campaign. **(100 XP)** (Players)
+- [x] Come up with House Roslyn Colors and Heraldry (GROUP)
 
 ### Pending
 
-- [ ] Provide DM a back story for your character that takes into account information you have so far about the world and how you would like your character to tie into the campaign. **(100 XP)** (Players)
-- [ ] Come up with House Roslyn Colors and Heraldry (GROUP)
 - [ ] Provide some reference handouts for Wren. (DM)
-- [ ] Provide Initial Session 2 Notes by May the Fourth. (DM)
