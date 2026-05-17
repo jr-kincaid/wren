@@ -54,12 +54,13 @@ DM  Joshua - pikish
 
 2. Josh - bearded_cyclist
 
-3. Ken - Steelpanther
+3. Josh - legategiles
 
-4. Ted - WolfmanComplex
+4. Ken - Steelpanther
 
-5. Tree - gh8stree
+5. Ted - WolfmanComplex
 
 #### Inactive Players
 
 1. Allison - desmond364
+2. Tree - gh8stree
