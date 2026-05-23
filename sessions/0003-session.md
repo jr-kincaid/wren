@@ -21,7 +21,6 @@
       - [Experience Log: Retired](#experience-log-retired)
     - [Active Players](#active-players)
     - [Experience Log: Session Achievements](#experience-log-session-achievements)
-      - [100 per player](#100-per-player)
     - [Experience Log: Achieved during Session 2](#experience-log-achieved-during-session-2)
   - [Party Treasure](#party-treasure)
     - [Party Treasure: Existing](#party-treasure-existing)
@@ -47,10 +46,10 @@ Each character that is introduced into House Roslyn is given a set of tatoos, as
    2. Code Word
    3. Destination if the location is not fixed.
 2. All Tatoos follow these mechanics:
-   1. Operate via utterance Code Word and physical touch of two finders happen in tandem.
+   1. Operate via utterance Code Word and physical touch of two fingers happen in tandem.
    2. Either:
       1. Self
-      2. Touched: All Touching Oragnisms to Self when the combitation of utterance of the code word and touch of tatoo with two fingers occurs.
+      2. Touched: All Touching Oragnisms to Self when the combitation of utterance of the code word and touch of tatoo with two fingers occurs. (free action)
    3. The tatoos issued to characters are self recharging to a 14 days (fortnight), the tatoo recharges on the 14th day or after, as long as the holder is in the Palazzo for the effect to trigger.
 
 #### Tatoo of the Homeland
@@ -63,12 +62,13 @@ Is a Tatoo of the Spiral with Self capability. The destination is specified duri
 
 ### Change 02: Mark of the Shadowland
 
-When the Sleepless pass while dreaming the drawer to the Shadow plane deepens.
+When the Sleepless pass while dreaming they draw deeper into the Shadow plane.
 
 1. Mark 1:
-   1. Sensitivity to Sun Light - The character is sensitive to sunlight. While the character can sustain in the sun for potentially extended periods. The character will lose 1 HP per three levels up until third level is attained. As a character grows in notarity, the Shadows draw nearer, beckoning them to final rest. This number increases with time. Any body part exposed to sublight will emit shadow vapor, as if smoke from the fire. So most marked Sleepless will keep out of sunlight or wear garments to limit bare skin.
-   2. Garentee Damage - Melee and Spell attacks automatical inflict 1 damage. This ability can increase over time similar to Sun light sensitivity.
-   3. Black Hand - As the power of the Shadow plane take hold, the body of the Sleepless slow converts to the of the undead. It starts will the none dominate hand. While this causes no penalty, the hand has papary skin. When exposed to sun light it emits a slight odor of decay. Not over bearing but there. Certain Houses even in Wren may take exception to those presenting as Sleepless. The saying, "We caught him black handed" associates the Sleepless with nefaricious under belly of society, as the undead is generally erradicated. House Roslyn is part of a coalition of houses that takes a quiet, but opposing stance, at least for allied parties, this position is close hold and generally not discussed in mixed company. It is not uncommon for the Black Handed to be executed. Usually chained to the stones of a solid structure or erection such as via cruxification or cage. The intent is execution with discomfort such as starvation or wither in the sun. It is believed execution limits the Sleepless from transitioning to the Shadow plane. The punishment is usually never swift or pretty.
+   1. Sensitivity to Sun Light - The character is sensitive to sunlight. While the character can sustain in the sun for potentially extended periods. The character will lose 1 HP per three levels up until third level is attained. As a character grows in notarity, the Shadows draw nearer, beckoning them to final rest. This number increases with time. Any body part exposed to sunlight will emit shadow vapor, as if smoke from the fire. So most marked Sleepless will keep out of sunlight or wear garments to limit bare skin.
+   2. Garentee Damage - Melee and Spell attacks automatical inflict 1 Shadow damage. This ability can increase over time similar to Sun light sensitivity.
+   3. Black Hand - As the power of the Shadow plane take hold, the body of the Sleepless slowly converts to the of the undead. It starts with the none dominate hand. While this causes no penalty, the hand has papary skin. When exposed to sun light it emits a slight odor of decay. Not over bearing but its there. 
+   Certain Houses even in Wren may take exception to those presenting as Sleepless. The saying, "We caught him black handed" associates the Sleepless with nefaricious under belly of society, as the undead is generally erradicated. House Roslyn is part of a coalition of houses that takes a quiet, but opposing stance, at least for allied parties, this position is close hold and generally not discussed in mixed company. It is not uncommon for the Black Handed to be executed. Usually chained to the stones of a solid structure or erection such as via cruxification or cage. The intent is execution with discomfort such as starvation or withering in the sun. It is believed execution limits the Sleepless from transitioning to the Shadow plane. The punishment is usually never swift or pretty and is generally public.
 
 ### Change 03: Introduction of the Book of Embon Tides - to Beyond Ruleset for the Campaign
 
@@ -76,9 +76,9 @@ Rules will be introduced gradually. If there are specific things you want from t
 
 ## Narration
 
-Where ever you stand it fades in into vapors of darkness. Cold emanating from the place you now stand is uncomfortable. You limbs, body, and mouth are immovable as if statues amoung the gravestones for which you stand. You bear witness to a Warlock in coversation with a mummified monk wearing green robes that are spotless. Certainly not befitting the condition of the body. Bowls of heavily scented oils burn with a wick that floats in each as offerings upon a raised granite stone on which the body sits. Incense sticks from the many arms of two statues to either side of his knees. The statues wear robes covered in runes as well as a heavy obscuring hood. The body sits in repose, as if meditating, but clearly lifeless. A single individual is seated in front of the mummyified corpse. 
+Where ever you stand it fades in into vapors of darkness. Cold emanating from the place you now stand is uncomfortable. You limbs, body, and mouth are immovable as if statues amoung the gravestones for which you stand. You bear witness to a Warlock in coversation with a mummified monk wearing green robes that are spotless. Certainly not befitting the condition of the body. Bowls of heavily scented oils burn with a wick that floats in each as offerings upon a raised granite stone on which the body sits. Incense sticks from the many arms of two statues to either side of her knees. The statues wear robes covered in runes as well as a heavy obscuring hood. The body sits in repose, as if meditating, but clearly lifeless. A single individual is seated in front of the mummyified corpse.
 
-"Yes Mistress Avellana I will serve you as I have had all my life. Thanks for extricating me from Goathome." the man seated in front of the corpse pledges. A voice not audible but in your head emits words in response: "Ah we have visitors." The man looks up startled. He can move, while you remain immible. The voice in your head continues: "Do not worry yourself with their prescense, they are here by my beckoning. I am Mistress Avellan of the Monastary of Goathome. You stand on the a plane seperate from where my servant and what remains of my physical body rests. Know that I always have access to you whenever I beckon. For now you will be returned to where ever you hail. Please protect him with your life, or yours too may be shortened. The Night Messengers are vast and you will always be one dream away from anniliation, if the whim pleases me. But also know I am fair to those who know their place. You may seek refuge with your house or the monastary. Know that we are aligned in the struggles of interest. I will hold further audience with you, as needs arrise. For know you are under oath. So say the founding Monk of the Order of Goathome. May our paths cross in peace.
+"Yes Mistress Avellana I will serve you as I have had all my life. Thanks for extricating me from Goathome." the man seated in front of the corpse pledges. A voice not audible but in your head emits words in response: "Ah we have visitors." The man looks up startled. He can move, while you remain immible. The voice in your head continues: "Do not worry yourself with their prescense, they are here by my beckoning. I am Mistress Avellan of the Monastary of Goathome. You stand on the a plane seperate from where my servant and what remains of my physical body rests. Know that I always have access to you whenever I beckon. For now you will be returned to where ever you hail. Please protect him with your life, or yours too may be shortened. The Night Messengers are vast and you will always be one dream away from anniliation, if the whim pleases me. But also know I am fair to those who know their place. You may seek refuge with your house or the monastary. Know that we are aligned in the struggles of interest. I will hold further audience with you, as needs arrise. For now you are under oath. So say the founding Monk of the Order of Goathome. May our paths cross in peace.
 
 With that you are transported back to whereever you were.
 
@@ -86,10 +86,11 @@ With that you are transported back to whereever you were.
 
 ### Experience Log: Summary
 
-- Ryu Kalthos (Elf Monk 3) **Start: 1000 XP End: TBD**
-- Sorloc Arrhesh (Dragonborn Fighter 3) **Start: 1000 XP End: TBD**
-- Wally Wyvern (Human Sorcerer 2) **Start: 400 XP End: TBD**
-- Sylvarius Runewood (Elf Druid 2) **Start: 500 XP End: TBD**
+- Ryu Kalthos (Elf Monk 3) **Start: 950 XP End: 1270**
+- Sorloc Arrhesh (Dragonborn Fighter 3) **Start: 1100 XP End: 1420**
+- Wally Wyvern (Human Sorcerer 2) **Start: 400 XP End: 720**
+- Sylvarius Runewood (Elf Druid 3) **Start: 600 XP End: 1000**
+- Johnny D (Human Warlock 2) **Start: 0 XP End: 320**
 
 #### Experience Log: Retired
 
@@ -101,15 +102,11 @@ TBD
 
 ### Experience Log: Session Achievements
 
-TBD
-
-#### 100 per player
-
-TBD
+N/A
 
 ### Experience Log: Achieved during Session 2
 
-TBD
+320
 
 ## Party Treasure
 
@@ -119,7 +116,7 @@ TBD
 - Night Messenger's Robe (Currently in the possession of Angelica Schwede)
 - 2x Purple Crystals (Find Steed; Shadow Realm)
 - 5x Shadow Realm Ever Burning Torches
-- 10 Healing Potions
+- 9 Healing Potions
 - Healing Kit
 - +1 Hammer of Smithing
 - Bracelet of Gentle Repose
@@ -127,12 +124,20 @@ TBD
 
 ### Party Treasure: Acquired
 
-TBD
+- 1515 GP from the Titan Body
+- +1 Dagger
+- Waterskin
+- 4 days of rations
+- 2 Potion of Healing
+- Scroll of Lesser Restoration
+- Scorll of Moonbeam
 
 ### Party Treasure: Consumed
 
+- 1 Healing Potion
 - 3x Purple Crystals (Find Steed; Shadow Realm)
 - TBD
+- 1500 GP
 
 ## Notable Events
 
