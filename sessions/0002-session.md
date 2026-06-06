@@ -81,7 +81,7 @@ One that will teleport you back to one of the Palazzo Spiral runes. And another 
 
 The City Below is dangerous as it is vast. Your first venture will be to clear a small goblin encampment from a ruined hold. I am sure you will excel at this task.
 
-Remain Vigilant, Remain Reverant, and Remember Who you Represent.
+Remain Vigilant, Remain Reverent, and Remember Who you Represent.
 
 Great Mage Fautus Gasterra
 
@@ -109,7 +109,7 @@ Monster Defeat 150 per Player ( Bob, Key, Josh 1)
 #### 100 per player
 
 Snacks - (Key, Josh 1)
-Best In Charecter - (Josh 1)
+Best In Character - (Josh 1)
 Blunder - Bob
 MVP - Bob
 Problem Solver - Ken
@@ -135,9 +135,9 @@ Ken: 400 XP
 
 10 Healing Potions
 Healing Kit
-+1 Hammer of Smithing
++1 Hammer of Smith
 Bracelet of Gentle Repose
-60 GP (Money and money equivlants)
+60 GP (Money and money equivalents)
 
 ### Party Treasure: Consumed
 
@@ -145,10 +145,10 @@ Bracelet of Gentle Repose
 
 ## Notable Events
 
-- 1 per fortnight: Homeland Tatoos for present characters. Code word and location decided by players. All touching creatures are transported.
-- 1 per fortnight: Roslyn Tatoo for present characters. Code word and location decided by players. Tatoo owner transport back to Roslyn HQ.
-- Wally recovers from transitioning towards a dezinen of the shadows.
-- Delver Mission aquired: Delve into the Prison of House Roslyn.
+- 1 per fortnight: Homeland Tattoos for present characters. Code word and location decided by players. All touching creatures are transported.
+- 1 per fortnight: Roslyn Tattoo for present characters. Code word and location decided by players. Tattoo owner transport back to Roslyn HQ.
+- Wally recovers from transitioning towards a denizen of the shadows.
+- Delver Mission acquired: Delve into the Prison of House Roslyn.
 
 ## Action Items
 
